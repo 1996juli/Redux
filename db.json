@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de manzana",
+      "precio": "150",
+      "id": 1
+    },
+    {
+      "nombre": "Pan",
+      "precio": 50,
+      "id": 2
+    },
+    {
+      "nombre": "Jugo de naranja",
+      "precio": 200,
+      "id": 3
+    },
+    {
+      "nombre": "Jugo de naranja",
+      "precio": 100,
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de naranja",
+      "precio": 4,
+      "id": 5
+    }
+  ]
+}
